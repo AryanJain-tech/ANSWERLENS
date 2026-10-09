@@ -1,0 +1,6 @@
+{
+  "name": "AnswerLens",
+  "description": "AI examiner for handwritten answers. Multimodal vision and strict rubric-based grading powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
